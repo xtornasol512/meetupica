@@ -1,0 +1,26 @@
+{
+  "name": "meetupica",
+  "version": "1.0.0",
+  "description": "A proyect to manage Events for Communitys",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtornasol512/meetupica.git"
+  },
+  "keywords": [
+    "html5",
+    "django",
+    "foundation",
+    "js",
+    "css"
+  ],
+  "author": "@xtornasol512, @_mayela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtornasol512/meetupica/issues"
+  },
+  "homepage": "https://github.com/xtornasol512/meetupica#readme"
+}
